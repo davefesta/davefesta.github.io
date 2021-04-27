@@ -9,9 +9,9 @@ categories:
 ---
 # Avoiding Common Product Feedback Issues
 
-Mistakes I've made and learned from first-hand in validating an early-stage b2b product. Talking to users is always great. Even greater if you're mindful of the following issues. 
+![Cover](/assets/workcover.png)
 
-    ![Cover](/assets/workcover.png)
+Mistakes I've made and learned from first-hand in validating an early-stage b2b product. Talking to users is always great. Even greater if you're mindful of the following issues. 
 
 ## 1 Leading Questions
 

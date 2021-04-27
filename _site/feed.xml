@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/dfesta.me/davefesta/feed.xml" rel="self" type="application/atom+xml" /><link href="/dfesta.me/davefesta/" rel="alternate" type="text/html" /><updated>2021-04-17T22:39:26-04:00</updated><id>/dfesta.me/davefesta/feed.xml</id><title type="html">Dave Festa’s Blog</title><subtitle>Dave Festa - Product Leader, previous Software Engineer - blog and personal links.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/dfesta.me/davefesta/jekyll/update/2021/04/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-04-16T22:39:11-04:00</published><updated>2021-04-16T22:39:11-04:00</updated><id>/dfesta.me/davefesta/jekyll/update/2021/04/16/welcome-to-jekyll</id><content type="html" xml:base="/dfesta.me/davefesta/jekyll/update/2021/04/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-26T22:38:34-04:00</updated><id>/feed.xml</id><title type="html">Dave Festa’s Blog</title><subtitle>Creative Builder. Humble Teacher. Casual Photographer.-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2021/04/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-04-16T22:39:11-04:00</published><updated>2021-04-16T22:39:11-04:00</updated><id>/jekyll/update/2021/04/16/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/04/16/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -14,4 +14,34 @@ Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Avoiding Common Product Feedback Issues</title><link href="/product%20management/feedback/2021/04/16/welcome-to-jekyll-copy.html" rel="alternate" type="text/html" title="Avoiding Common Product Feedback Issues" /><published>2021-04-16T22:39:11-04:00</published><updated>2021-04-16T22:39:11-04:00</updated><id>/product%20management/feedback/2021/04/16/welcome-to-jekyll-copy</id><content type="html" xml:base="/product%20management/feedback/2021/04/16/welcome-to-jekyll-copy.html">&lt;h1 id=&quot;avoiding-common-product-feedback-issues&quot;&gt;Avoiding Common Product Feedback Issues&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/workcover.png&quot; alt=&quot;Cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mistakes I’ve made and learned from first-hand in validating an early-stage b2b product. Talking to users is always great. Even greater if you’re mindful of the following issues.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-leading-questions&quot;&gt;1 Leading Questions&lt;/h2&gt;
+
+&lt;p&gt;Asking broad, open-ended questions can become awkward, particularly if you have a strong inkling about the response. Bite your tongue. The problem with suggesting or angling towards a certain answer is that it becomes too easy for your audience to nod along. Obvious or not you want to hear from your users. That’s the point of this exercise in the first place; so, let their voices shine!&lt;/p&gt;
+
+&lt;h2 id=&quot;2-not-grounding-in-use-cases&quot;&gt;2 Not grounding in use cases&lt;/h2&gt;
+
+&lt;p&gt;It’s easy to&lt;/p&gt;
+
+&lt;h2 id=&quot;3-over-indexing-on-one-customer&quot;&gt;3 Over-indexing on one Customer&lt;/h2&gt;
+
+&lt;h2 id=&quot;4-being-too-general&quot;&gt;4 Being too general&lt;/h2&gt;
+
+&lt;p&gt;ensure he’s prepared&lt;/p&gt;
+
+&lt;p&gt;get specifics on anecdotes&lt;/p&gt;
+
+&lt;p&gt;dont ask u want x or y he’ll say yes to everything&lt;/p&gt;
+
+&lt;p&gt;find key points in user journey so not throwing random features&lt;/p&gt;
+
+&lt;p&gt;build market not 1 user.&lt;/p&gt;
+
+&lt;p&gt;align internal up next&lt;/p&gt;
+
+&lt;p&gt;ask SPECIFICS NOT GENERAL HEY EVEYRHING&lt;/p&gt;</content><author><name></name></author><category term="product management" /><category term="feedback" /><summary type="html">Avoiding Common Product Feedback Issues</summary></entry></feed>
