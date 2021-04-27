@@ -1,11 +1,13 @@
 ---
 layout: post
-title: hey me try
+title: Avoiding Common Product Feedback Blind Spots
 date: 2021-04-17T02:39:11.000+00:00
-categories: []
+categories:
+- product management
+- feedback
 
 ---
-**me saying hey**
+# Avoiding Common Product Feedback Blind Spots
 
 > > test it
 > > test 333
