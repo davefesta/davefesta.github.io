@@ -1,41 +1,38 @@
 ---
 layout: post
-title: Avoiding Common Product Feedback Blind Spots
+title: Avoiding Common Product Feedback Issues
 date: 2021-04-17T02:39:11.000+00:00
 categories:
 - product management
 - feedback
 
 ---
-# Avoiding Common Product Feedback Blind Spots
+# Avoiding Common Product Feedback Issues
 
-> > test it
-> > test 333
-> > 'single' here
-> > You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Mistakes I've made and learned from first-hand in validating an early-stage b2b product. Talking to users is always great. Even greater if you're mindful of the following issues. 
 
-Jekyll requires blog post files to be named according to the following format:
+## 1 Leading Questions
 
-'here'
+Asking broad, open-ended questions can become awkward, particularly if you have a strong inkling about the response. Bite your tongue. The problem with suggesting or angling towards a certain answer is that it becomes too easy for your audience to nod along. Obvious or not you want to hear from your users. That's the point of this exercise in the first place; so, let their voices shine!
 
-''' hey try
+## 2 Not grounding in use cases
 
-`hey`
+It's easy to 
 
-    here
+## 3 Over-indexing on one Customer
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 4 Being too general
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-CHECKING
-Jekyll also offers powerful support for code snippets:
+ensure he’s prepared
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-\#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+get specifics on anecdotes
 
-Check out the [Jekyll docs](https://jekyllrb.com/docs/home) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo](https://github.com/jekyll/jekyll). If you have questions, you can ask them on [Jekyll Talk](https://talk.jekyllrb.com/).
+dont ask u want x or y he’ll say yes to everything
+
+find key points in user journey so not throwing random features
+
+build market not 1 user.
+
+align internal up next
+
+ask SPECIFICS NOT GENERAL HEY EVEYRHING
