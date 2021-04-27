@@ -11,6 +11,8 @@ categories:
 
 Mistakes I've made and learned from first-hand in validating an early-stage b2b product. Talking to users is always great. Even greater if you're mindful of the following issues. 
 
+    ![Cover](/assets/workcover.png)
+
 ## 1 Leading Questions
 
 Asking broad, open-ended questions can become awkward, particularly if you have a strong inkling about the response. Bite your tongue. The problem with suggesting or angling towards a certain answer is that it becomes too easy for your audience to nod along. Obvious or not you want to hear from your users. That's the point of this exercise in the first place; so, let their voices shine!
