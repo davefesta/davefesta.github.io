@@ -23,7 +23,9 @@ Interesting ideas often pop up in conversation. "This would be cool..." or "It w
 
 ## 3) Over-indexing on one Customer
 
-## 4) Being too general
+This is admittablly a delicate balance. Clearly, we don't want to build custom software that will only work for one given customer. 
+
+## 4) Not enough specifics
 
 ensure he’s prepared
 
