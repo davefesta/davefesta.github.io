@@ -39,4 +39,4 @@ align internal up next
 
 ask SPECIFICS NOT GENERAL HEY EVEYRHING
 
-## Bonus: learn more on this topic from the excellent book: \[The Mom Test\]([https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742 "https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742"))
+## Bonus: Learn more on this topic from the excellent book: \[The Mom Test\]([https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742 "https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742"))
