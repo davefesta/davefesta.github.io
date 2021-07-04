@@ -21,9 +21,11 @@ Interesting ideas often pop up in conversation. "This would be cool..." or "It w
 
 ## 3) Over-indexing on One Customer
 
-Assuming our goal is a scalable SaaS product we clearly we don't want to build custom software that will only work for one given customer. This is admittedly a delicate balance. On the other end of the spectrum is software that's too watered down or stuck in a lowest-common denominator that is so-so for everyone but not great for any one customer. The key is unpacking nuanced specific customer needs versus a market fit.
+Assuming our goal is a scalable SaaS product we clearly we don't want to build custom software that will only work for one given customer. This is admittedly a delicate balance. On the other end of the spectrum is software that's too watered down or stuck in a lowest-common denominator that is so-so for everyone but not great for any one customer. The key is unpacking nuanced specific customer needs versus broader market value.
 
 ## 4) Not Enough Specifics
+
+It's powerful to push, whenever possible, for recent anecdotes and stay out of too many hypotheticals. 
 
 ensure he’s prepared
 
@@ -32,8 +34,6 @@ get specifics on anecdotes
 dont ask u want x or y he’ll say yes to everything
 
 find key points in user journey so not throwing random features
-
-build market not 1 user.
 
 align internal up next
 
