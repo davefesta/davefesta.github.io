@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Partnering Effectively with Sales
-date: 2021-04-17T02:39:11.000+00:00
+date: 2021-08-02 04:00:00 +0000
 categories:
 - product management
-- feedback
+- stakeholder management
 
 ---
 ![Cover](/assets/workcover.png)
+
+Working with sales is extremely important to get right for a given product to be successful. . They have a wealth of first-hand knowledge around prospective customers and the market. They understand clearly competition.  
 
 Achieving product-market fit depends in no small part on holding productive user feedback sessions with early adopters. We all know talking to users is great. Even greater if you're mindful of the following five "gotchas" I've run into first-hand in building b2b products.
 
