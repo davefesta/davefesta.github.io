@@ -15,9 +15,9 @@ Achieving product-market fit depends in no small part on holding productive user
 
 Asking broad, open-ended questions can become awkward, particularly if you have a strong inkling about the response. Bite your tongue. The problem with suggesting or angling towards a certain answer is that it becomes too easy for your audience to nod along. As obvious as it sounds, our goal is to hear direct, unbiased responses from our audience. That's the point of this exercise in the first place; so, let our users' voices shine without first nudging them toward a particular response!
 
-## 2) Not grounding in Use Cases
+## 2) Not Grounding in Use Cases
 
-Interesting ideas often pop up in conversation. "This would be cool..." or "It would be great if..." However, having a clear persona and use case in mind is essential to stay on track. Without this foundation, it's too easy to bounce around on interesting but not so critical features. Our users will not be clearly well-versed or organized in the problem we're solving and what is essential. As a result it's often more productive to steer the conversation or at least parse the dialogue with clear use cases in mind.
+Interesting ideas often pop up in conversation. "This would be nice..." or "It would be great if..." However, having a clear persona and use case in mind is essential to stay on track. Without this foundation, it's too easy to bounce around on interesting but not so critical features. Our users will not be clearly well-versed or organized in the problem we're solving and what is essential. As a result it's often more productive to steer the conversation or at least parse the dialogue with clear use cases in mind.
 
 ## 3) Over-indexing on One Customer
 
@@ -25,18 +25,6 @@ Assuming our goal is a scalable SaaS product we clearly we don't want to build c
 
 ## 4) Not Enough Specifics
 
-It's powerful to push, whenever possible, for recent anecdotes and stay out of too many hypotheticals. 
-
-ensure he’s prepared
-
-get specifics on anecdotes
-
-dont ask u want x or y he’ll say yes to everything
-
-find key points in user journey so not throwing random features
-
-align internal up next
-
-ask SPECIFICS NOT GENERAL HEY EVEYRHING
+It's powerful to push, whenever possible, for recent anecdotes and stay out of too many hypotheticals. The ideal flow is typically starting high level before then zooming in. This also helps avoid the trap of conflating the "ideal self" versus reality.   Hypotheticals or generalized thoughts can often differ widely than what really has or is happening. Getting to the right level of specificity ensures a tight fit between the solution and need.
 
 ## Bonus: Learn more on this topic from the excellent book: \[The Mom Test\]([https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742 "https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742"))
